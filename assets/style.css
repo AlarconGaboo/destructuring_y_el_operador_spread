@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(8, 77, 61);
+    color: white;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.form-container h2 {
+    text-align: center;
+}
+
+.form-container .form-control {
+    background-color: black;
+    color: white;
+    border: 1px solid #ced4da;
+}
+
+.form-container .btn-custom {
+    background-color: black;
+    color: green;
+    border: none;
+}
